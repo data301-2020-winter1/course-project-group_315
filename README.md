@@ -9,17 +9,16 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Describe your topic/interest in about 150-200 words
 
-{Add your stuff here}
+{This topic is interesting to me because I play various video games. Questions I'd like to explore are: What genre or console or publisher are most popular in specific region? How have interest in certain game genres changed over the years? A dashboard for this dataset seems very realistic in my opinion.}
 
 ## Describe your dataset in about 150-200 words
 
-{Add your stuff here}
+{The data was provided my a websit called VGChartz which get all of its information from the developers and publishers of said data. The data includes over 16 thousand games ranging from the year 1980 to 2020. The data set also includes the sales of these games in different regions and gloabl sales as well as the genre and publisher of each game. The purpose of this dataset is mainly for curiosity and fun.}
 
 ## Team Members
 
-- Person 1: one sentence about you!
-- Person 2: one sentence about you!
-- Person 3: one sentence about you!
+- Gabriel: I am a 19 year old computer science major whos hobbies include gaming and gyming.
+
 
 ## References
 
